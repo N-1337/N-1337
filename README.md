@@ -26,21 +26,19 @@
   <img src="https://komarev.com/ghpvc/?username=MohamedEslam04&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
 </div>
 <div id="view" align="center">
-  <img src="./assets/Luffy.jpeg" alt="Luffy" height="110" style="border-radius: 10px; margin-top: 10px;"/>
+  <img src="./Luffy.jpeg" alt="Luffy" height="110" style="border-radius: 10px; margin-top: 10px;"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Software+Engineer;Frontend+Specialist;Vue.js+%2F+Nuxt.js;React+%2F+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Application+Security+Engineer;Penetration+Testing;Source+Code+Review;CTF+Player;Bug+Hunter;Just+Hacker..)](https://git.io/typing-svg)
 <h1>
   Hi, I'm Mohammed Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+  <img src="./giphy.gif" width=200 >
 </div>
 
-<h3 align="center">I'am a Penetration Testing Networking & Web And Simple Know Mobile Penetration Android</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Night0&show_icons=true&theme=transparent)
+<h3 align="center">I'am a Penetration Testing Networking & Web & Mobile Penetration </h3>
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=python,bash,cs,html,js,linux,java,php,docker,cpp,c,mysql,windows,androidstudio&perline=6)](https://skillicons.dev)
